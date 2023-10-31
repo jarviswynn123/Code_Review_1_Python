@@ -1,4 +1,3 @@
-print("Hello World")
 
 thisdict = {
   "brand": "Ford",
