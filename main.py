@@ -1,4 +1,3 @@
-
 thisdict = {
   "brand": "Ford",
   "model": "Mustang",
