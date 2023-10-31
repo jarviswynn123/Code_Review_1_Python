@@ -79,9 +79,7 @@ class Cat:
         print("Mmmrreow!")
     
 siamese = Cat("black", "Jeff")
-
-print(siamese.name)
-
 sphinx = Cat("grey", "Jeffy")
 
+print(siamese.name)
 sphinx.meow()
